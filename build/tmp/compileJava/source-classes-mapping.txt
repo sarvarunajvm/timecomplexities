@@ -1,8 +1,0 @@
-org/leetcode/problems/easy/Test.java
- org.leetcode.problems.easy.Test
-org/leetcode/problems/easy/Test2.java
- org.leetcode.problems.easy.Test2
-org/leetcode/problems/easy/TwoSum.java
- org.leetcode.problems.easy.TwoSum
-org/leetcode/problems/easy/Test3.java
- org.leetcode.problems.easy.Test3
