@@ -1,4 +1,4 @@
-package org.leetcode.problems.easy;
+package org.studies.dsalgo.others;
 
 import java.util.ArrayList;
 import java.util.Arrays;
