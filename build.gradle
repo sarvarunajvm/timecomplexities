@@ -16,6 +16,7 @@ dependencies {
 
     testCompileOnly 'org.projectlombok:lombok:1.18.20'
     testAnnotationProcessor 'org.projectlombok:lombok:1.18.20'
+    testImplementation group: 'org.jeasy', name: 'easy-random-core', version: '4.3.0'
     testImplementation 'org.junit.jupiter:junit-jupiter-api:5.7.0'
     testImplementation group: 'ch.qos.logback', name: 'logback-classic', version: '1.2.3'
     testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.7.0'
